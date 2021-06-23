@@ -123,6 +123,12 @@ blockquote p {
   margin-bottom: 1rem;
 }
 
+.copyRight{
+  text-transform: uppercase;
+  font-weight: 100;
+  font-size: small;
+  margin-top: 20px;
+}
 
 @media (max-width: 460px) {
   h1 {
@@ -139,4 +145,6 @@ blockquote p {
   #img-caption {
     font-size: 1.4rem;
   }
+  .copyRight{
+    font-size: .8rem;
 }
